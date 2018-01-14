@@ -3,7 +3,7 @@ import media
 
 # This program shows my favorite movies on a web page.  When the movie is selected it plays the trailer.
 # This program uses a Python module fresh_tomatoes that when given a movie list launches a web page that displays
-# the poster images of each movie and resonds to user clicks on an image by playing the trailer for the movie.
+# the poster images of each movie and responds to user clicks on an image by playing the trailer for the movie.
 # A separate module media implements a class that stores the relevant instance variables needed by fresh_tomatoes.
 
 joe_vs_volcano = media.Movie ("Joe Versus the Volcano",

@@ -37,6 +37,6 @@ the_revenant = media.Movie("The Revenant",
                            "51isa53LFIL._SL500_AC_SS350_.jpg",
                            "https://www.youtube.com/watch?v=QRfj1VCg16Y")
 
-print (media.Movie.__doc__)
+print(media.Movie.__doc__)
 movies = [joe_vs_volcano, blade_runner, wizards, little_big_man, the_revenant]
 fresh_tomatoes.open_movies_page(movies)
